@@ -1,7 +1,7 @@
 import numpy
 
-def transpose(l):
-    print(((numpy.array(l)).transpose()))
+def transpose(m):
+    print(((numpy.array(m)).transpose()))
 
 l = eval(input())
 transpose(l)
