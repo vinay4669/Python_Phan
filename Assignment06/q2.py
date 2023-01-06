@@ -1,6 +1,6 @@
 f = open("sample.txt", 'r')
 l = f.readlines()
-v = c = uc = lc= 0
+v = c = uc = lc = 0
 ucl = [chr(i) for i in range(65, 91)]
 lcl = [chr(i) for i in range(97, 123)]
 vl = 'aeiouAEIOU'
