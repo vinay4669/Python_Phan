@@ -1,0 +1,6 @@
+f = open("lab1.txt", 'r')
+l = f.read()
+f.close()
+f = open("lab2.txt", 'w')
+f.write(l)
+f.close()
