@@ -1,3 +1,5 @@
+# not working as i wanted it to
+
 def asm(a, b, n, w):
     if a==n:
         return w

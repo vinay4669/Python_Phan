@@ -1,5 +1,5 @@
 # work in progress
-# idk what i'm doing
+# idk what i was doing
 
 a = []
 def main():

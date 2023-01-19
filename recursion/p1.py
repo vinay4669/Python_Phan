@@ -1,4 +1,4 @@
-#_func() returns the index of first occurence of uppercse letter in a string
+#_func() returns the index of first occurence of uppercase letter in a string
 #_or returns -1 if no upper case lette ris present
 def func(s):
   if s.islower():

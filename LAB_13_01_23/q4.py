@@ -1,0 +1,11 @@
+import numpy
+l1 = list(map(int, input().split()))
+l2 = list(map(int, input().split()))
+A = numpy.array(l1)
+B = numpy.array(l2)
+print(A+B)
+print(A-B)
+print(A*B)
+print(A//B)
+print(A%B)
+print(A**B)
